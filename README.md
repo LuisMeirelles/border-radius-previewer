@@ -1,5 +1,5 @@
-# border-radius Previewer
+# border-radius-previewer
 
-## Preview how CSS3 border-radius values affect an element
+## Visualize como os valores de border-radius do CSS3 afetam um elemento
 
-The border-radius property can have multiple values changed. Preview how the shape looks while changing these values.
+A propriedade border-radius pode ter vários valores alterados. Visualize a aparência da forma ao alterar esses valores.
